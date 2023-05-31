@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "SMP IT MADANI",
+    "paragraph": "Unggul, Berprestasi, Berakhlakul Karimah."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Tenaga Pengajar",
+      "text": "Terdiri dari 12 pengajar kompeten yang memiliki skil di bidang masing masing, turut andil dalam mencerdaskan anak bangsa."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-book",
+      "title": "Kurikulum 2013",
+      "text": "Kurikulum 2013 (K-13/Kurtilas) adalah kurikulum yang berlaku dalam Sistem Pendidikan Indonesia."
+    },
+    {
+      "icon": "fa fa-github",
+      "title": "Ekstarkulikular",
+      "text": "Memiliki berbagai macam ekstrakulikular diantaranya pramuka."
+    },
+    {
+      "icon": "fa fa-th-large",
+      "title": "Islam Terpadu",
+      "text": "Sekolah Islam Terpadu pada hakekatnya adalah sekolah yang mengimplementasikan konsep pendidikan Islam berlandaskan AlQuran dan As Sunnah."
     }
   ]
 }
