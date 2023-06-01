@@ -68,33 +68,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Guru dapat mengubah hidup hanya dengan campuran kapur dan tantangan yang tepat.\"",
+      "name": "Mochammad Taufik Juliandi"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Guru adalah orang yang memiliki hati yang besar untuk membantu membentuk pikiran kecil.\"",
+      "name": "Faisal Ahmadian"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Bagi dunia, kamu mungkin hanya seorang guru, tetapi bagi siswamu, kamu adalah pahlawan.\"",
+      "name": "Agis Pangestu"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Dengan belajar kamu akan mengajar; dengan mengajar kamu akan belajar.\"",
+      "name": "Abduk Kholik"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Begitu sering kamu menemukan bahwa siswa yang kamu coba inspirasi adalah orang-orang yang akhirnya menginspirasimu.\"",
+      "name": "Ayu Permatasari"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Guru yang baik itu seperti lilin, ia menghabiskan dirinya sendiri untuk menerangi jalan bagi orang lain.\"",
+      "name": "Nirvananda Setiawan"
     }
   ],
   "Contact": {
